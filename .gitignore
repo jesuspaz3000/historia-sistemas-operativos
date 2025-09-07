@@ -1,0 +1,52 @@
+# Archivos generados por LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.glsdefs
+
+# Archivos de backup
+*.bak
+*~
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de build
+build/
+output/
+
+# Archivos específicos del editor
+*.swp
+*.swo
+*~
+
+# Archivos de TeXstudio
+*.txss
+
+# Archivos de TeXworks
+*.fdb_latexmk
+*.figlist
+*.makefile
+
+# Archivos temporales
+tmp/
+temp/
