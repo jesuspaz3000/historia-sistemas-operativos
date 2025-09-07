@@ -22,6 +22,9 @@
 *.ist
 *.glsdefs
 
+# Archivos PDF generados (descomenta si quieres incluir PDFs)
+*.pdf
+
 # Archivos de backup
 *.bak
 *~
